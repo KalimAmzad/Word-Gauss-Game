@@ -1,0 +1,19 @@
+This is Word Gauss Game.
+
+<<Run WordGaussGameDriver.py file>>
+First select wordlist.txt file
+Second select board.txt file
+Third Enjoy the Game
+
+<<Game Description>>
+In Wordlist.txt there have some word.
+You will be given a board from board.txt file
+
+You have to gauss a word from this board either rowwise or column
+wise that word is in the word list.
+if your choosen word length is 3-6 : your point = word length*1
+if your choosen word length is 7-9 : your point = word length*2
+if your choosen word length is 10+ : your point = word length*3
+
+<<Contact>>
+kalim.amzad.chy@gmail.com
